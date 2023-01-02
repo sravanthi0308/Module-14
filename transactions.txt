@@ -1,0 +1,6 @@
+Deposited 34.0 with a new balance of 84.5
+Withdrew 34.0 with a new balance of 50.5
+Deposited 56.0 with a new balance of 106.5
+Withdrew 12.0 with a new balance of 94.5
+Deposited 34.0 with a new balance of 84.5
+Withdrew 34.0 with a new balance of 50.5
